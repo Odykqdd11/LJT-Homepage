@@ -9,7 +9,6 @@ baseurl                  : "/LJT-Homepage"
 repository               : "Odykqdd11/LJT-Homepage"
 
 author:
-  avatar           : "profile.png"
   name             : "Junteng Liu"
   bio              : "First-year PhD candidate at HKUST NLP Group"
   employer         : "Hong Kong University of Science and Technology"
@@ -58,24 +57,24 @@ alexa_site_verification  :
 yandex_site_verification :
 
 twitter:
-  username: &twitter "junteng88716710"
+  username               : &twitter "junteng88716710"
 facebook:
-  username:
-  app_id:
-  publisher:
-og_image:
-og_description:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :
+og_description           :
 social:
-  type: Person
-  name: "Junteng Liu"
+  type                   : Person
+  name                   : "Junteng Liu"
   links:
     - "https://github.com/Vicent0205"
     - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
 
 analytics:
-  provider: "false"
+  provider               : "false"
   google:
-    tracking_id:
+    tracking_id          :
 
 include:
   - .htaccess
